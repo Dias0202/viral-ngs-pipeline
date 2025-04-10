@@ -120,9 +120,7 @@ Results are automatically organized into:
 
 ---
 
-## 📬 Contact
-
-Maintained by: **Gabriel Dias Moreira**  
+## 📬 
 Feel free to fork, open issues, or suggest improvements!
 
 ---
