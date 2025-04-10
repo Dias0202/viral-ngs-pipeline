@@ -43,6 +43,19 @@ Before running the pipeline, organize your files as follows:
 ├── primer.fasta               # FASTA file containing primers to be trimmed
 ├── workflow.sh                # Main script
 ```
+📌 Creating the primer.fasta file
+The primer.fasta file must contain all primer sequences used during library preparation, in standard FASTA format. Each primer must start with a header line beginning with >, followed by the primer sequence on the next line.
+
+```
+>primer_F1
+ACTGTTGGAAGGTTTGTAGG
+>primer_R1
+TCCATGAGGTTCTTGAGTGT
+>primer_F2
+GGTGACAGTTGAGAGACACC
+>primer_R2
+AACCATCAGGTGTTCTCTG
+```
 
 ---
 
